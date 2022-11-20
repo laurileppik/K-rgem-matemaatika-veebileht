@@ -8,6 +8,23 @@ h1{
 
 body {
     background-image: url(https://wallpaperaccess.com/full/4199010.jpg);
+    font-size: 20px;
+    color: rgb(242, 243, 245);
+}
+
+.tekst{
+    font-family:  "Bradley Hand", cursive;
+}
+
+.tekst2{
+    font-family:  "Bradley Hand", cursive;
+}
+
+h2{
+    color: rgb(242, 243, 245);
+    text-decoration-line: underline;
+    margin: 0;
+    font-size: 30px;
 }
 
 a {
