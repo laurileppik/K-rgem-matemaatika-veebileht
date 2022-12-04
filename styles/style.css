@@ -43,3 +43,43 @@ a {
 .space {
     margin-top: 2500px;
 }
+
+#img {
+    float: left;
+}
+
+#img img {
+    display: block;
+    max-width: 404px;
+    object-fit: contain;
+}
+
+#img3 img {
+    display: block;
+    max-width: 404px;
+    object-fit: contain;
+}
+
+#img3 {
+    float: left;
+}
+
+#img4 img {
+    display: block;
+    max-width: 404px;
+    object-fit: contain;
+}
+
+#img4 {
+    float: left;
+}
+
+#img5 img {
+    display: block;
+    max-width: 404px;
+    object-fit: contain;
+}
+
+#img5 {
+    float: left;
+}
