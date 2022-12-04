@@ -74,12 +74,3 @@ a {
     float: left;
 }
 
-#img5 img {
-    display: block;
-    max-width: 404px;
-    object-fit: contain;
-}
-
-#img5 {
-    float: left;
-}

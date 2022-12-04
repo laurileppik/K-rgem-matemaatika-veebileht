@@ -1,3 +1,17 @@
 a {
     float: right;
 }
+
+#img5 img {
+    display: block;
+    max-width: 404px;
+    object-fit: fill;
+}
+
+#img5 {
+    float: left;
+}
+
+#img3 .teksteri{
+    margin-top: 3500px;
+}
