@@ -39,3 +39,28 @@ a.nupp {
     max-width: 673px;
     object-fit: contain;
 }
+
+#img3 img {
+    display: block;
+    max-width: 404px;
+    object-fit: contain;
+}
+
+#img3 {
+    float: left;
+}
+
+#img4 img {
+    display: block;
+    max-width: 404px;
+    object-fit: contain;
+}
+
+#img4 {
+    float: left;
+}
+
+.videod{
+    width:"420";
+    height:"345";
+}
