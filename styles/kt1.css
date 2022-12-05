@@ -1,7 +1,3 @@
-a {
-    float: right;
-}
-
 .tekst2{
     position:relative; left: 105px;
 }
@@ -19,6 +15,6 @@ a {
     height: 225px;
 }
 
-.space2 {
-    margin-top: 3300px;
+.space3 {
+    margin-top: 3200px;
 }
