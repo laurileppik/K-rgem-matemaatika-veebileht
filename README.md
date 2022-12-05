@@ -1,4 +1,4 @@
 # Kõrgema-matemaatika-veebileht
 
->Kõrgema matemaatika veebileht
->Kasuta omal vastutusel.
+Kõrgema matemaatika veebileht <br />
+Kasuta omal vastutusel.
