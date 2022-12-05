@@ -1,4 +1,4 @@
-//Kood https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript
+//Kood võetud lehelt https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript
 
 //See funktsioon võtab väärtused parameetritena ja tagastab need tekstikasti.
 function display(val){
