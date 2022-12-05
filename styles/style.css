@@ -75,3 +75,7 @@ iframe{
     height: 400px;
     max-width: 620px;
 }
+
+a.nupp {
+    float: right;
+}
