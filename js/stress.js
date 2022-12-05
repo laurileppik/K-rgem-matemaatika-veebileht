@@ -1,22 +1,24 @@
-//https://bobbyhadz.com/blog/javascript-change-button-color-onclick
-
+//Kood võetud lehelt https://stackoverflow.com/questions/64183534/javascript-random-image-random-transition-slideshow
+//Funktsioon järgmise pildi näitamiseks.
 function displayNextImage() {
 	var bkX = x;
 	x = Math.floor(Math.random() * images.length + 1) 
   
-  //If new X is the same as old X and is not the last image, incremnt to avoid the same image twice in a row
+  //Väldib sama pilti 2 korda järjest.
   if (bkX === x && x !== images.length)
   	x++;
-  //If new X is the same as old X, but is the last image, decrement
+ 
   else if (bkX === x && x === images.length)
   x--;
   console.log("x " + x);
   
 	document.getElementById("img").src = images[x];
 }
+//Funktsioon jätab 4 sekundit iga pildi vahele.
 function startTimer() {
   setInterval(displayNextImage, 4000);
 }
+//Piltide hoiustamiseks loodav järjend.
 var trans=[]; 
 var images = [
   "https://wallpaperset.com/w/full/8/4/8/392892.jpg" ,
