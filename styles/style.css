@@ -40,10 +40,6 @@ a {
     font-size: 20px;
   }
 
-.space {
-    margin-top: 2500px;
-}
-
 #img {
     float: left;
 }
@@ -74,3 +70,8 @@ a {
     float: left;
 }
 
+iframe{
+    width: 620px;
+    height: 400px;
+    max-width: 620px;
+}
